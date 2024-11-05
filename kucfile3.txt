@@ -1,0 +1,8 @@
+good morning students
+<<<<<<< HEAD
+have a heavenly day
+thankyou
+students
+=======
+have a heavenly day
+>>>>>>> file3
